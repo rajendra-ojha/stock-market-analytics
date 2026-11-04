@@ -103,7 +103,7 @@ I also focused on making the code easier to maintain by using reusable functions
 
 ## Live Dashboard
 
-**Live Application:** Add your Streamlit deployment URL here.
+**Live Application:** https://rajendra-stock-market-analytics.streamlit.app/
 
 ## Future Improvements
 
